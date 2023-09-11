@@ -1,1 +1,1 @@
-<img src="../images/ParsonLabs-Inc-Banner.png" />
+<img src="https://github.com/ParsonLabs/.github/blob/main/images/ParsonLabs-Inc-Banner.png?raw=true" />
